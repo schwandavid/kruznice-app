@@ -31,7 +31,8 @@ st.pyplot(fig)
 # --- 4. Info o autorovi ---
 with st.expander("O aplikaci"):
     st.write("""
-    **Autor:** Jan Novák  
-    **Kontakt:** jan.novak@email.com  
+    **Autor:** David Schwan  
+    **Kontakt:** 278357@vutbr.cz  
     **Použité technologie:** Python, Streamlit, Matplotlib
     """)
+
